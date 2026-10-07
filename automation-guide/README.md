@@ -3,6 +3,7 @@
 Tài liệu hướng dẫn tự động hoá **Facebook, Instagram, TikTok**, dựng lại từ 3 file PDF "Hướng dẫn sử dụng tự động hoá" theo đúng giao diện của GenFarmer Support Center.
 
 - **File để gửi / deploy:** `dist/genfarmer-automation-guide.html`. Đây là một file HTML duy nhất, đã nhúng sẵn toàn bộ ảnh, mở trực tiếp hoặc kéo thả lên Netlify là chạy.
+- **Bản xem online:** https://vietgit04.github.io/genfarmer_package/ — tự cập nhật mỗi khi `dist/` trên `main` thay đổi (workflow `.github/workflows/pages.yml`).
 - **4 ngôn ngữ:** English (mặc định), Tiếng Việt, Español, 日本語. Đổi bằng nút 🌐 trên header; lựa chọn được lưu lại cho lần sau.
 - **22 trang × 4 ngôn ngữ**, 30 chức năng, 172 ảnh chụp màn hình (đã bỏ ảnh trùng, nén 1400px / JPEG q82).
 
